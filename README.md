@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I use JavaSciprt to make things I think are interesting
+
 <!--
 **Makima-desu/Makima-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
