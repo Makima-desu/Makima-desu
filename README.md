@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- I use TypeScript
-
 <!--
 **Makima-desu/Makima-desu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
